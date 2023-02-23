@@ -3,3 +3,4 @@
 **/.next/*
 *.config.js
 *.setup.js
+**/.storybook/*
